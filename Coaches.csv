@@ -1,0 +1,15 @@
+personnel_id,first_name,last_name,team_name,dob,place_of_birth
+201,Bob,Smith,TeamA,05/05/1980,Sheffield
+202,Alice,Johnson,TeamA,10/08/1975,London
+203,Riley,Weaver,TeamB,01/12/1985,Manchester
+204,Cheryl,Smith,TeamB,18/04/1993,Newcastle
+205,Sophie,Reynolds,TeamC,25/08/1980,London
+206,Jack,Preacher,TeamC,14/02/1977,Manchester
+207,Karen,Taylor,TeamC,30/06/1982,Cheshire
+208,Liam,Butcher,TeamA,10/11/1979,London
+209,Mia,Cameron,TeamB,22/05/1991,Brighton
+210,Noah,Wright,TeamB,05/09/1984,Amsterdam
+211,Sasha,Quill,TeamC,12/03/1990,Menton
+212,Parker,Wong,TeamC,28/01/1988,New York City
+213,Quinn,Fisher,TeamC,15/07/1993,Toronto
+214,Riley,House,TeamC,03/04/1986,Brighton
